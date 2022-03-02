@@ -1,0 +1,15 @@
+Started by upstream project "[8mha:////4AQxg3V6XBzlxTYEu2AoLnu3BDudx5/OkrpqY4DlZI4CAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/az8JH2n0sycFH0Ahtvdn8AAAAA=[0mBuild" build number [8mha:////4L7G7035/GhfMpNEBb4BXKfIvVMJG4gphzzExWVAmuxoAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBh79rPwkfafSzJwUfRMAKaqwXsEAAAA=[0m4
+originally caused by:
+ Started by an SCM change
+Running as SYSTEM
+Building remotely on [8mha:////4ApekErrvmTM1VTF/qM0dQDXHVLZAfM8Y3mlr6pXo+1OAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZ+/eT83ILSktQi/TygOw0BADPgR8QAAAA=[0mnode1 in workspace /home/ec2-user/workspace/deploy
+[deploy] $ /bin/sh -xe /tmp/jenkins4061756116783377889.sh
++ cd /opt/tomcat/apache-tomcat-8.5.76/bin/
++ sudo sh shutdown.sh
++ cd /home/ec2-user/workspace/Build/target
++ sudo mv onlinebookstore-0.0.1-SNAPSHOT.war /opt/tomcat/apache-tomcat-8.5.76/webapps/
++ cd /opt/tomcat/apache-tomcat-8.5.76/bin/
++ sudo sh startup.sh
+Tomcat started.
+Triggering a new build of [8mha:////4LBuog64r5JdwiO2cHW9nmctEkzskJaPeUcE/a9tr8bYAAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyWEgYu/az8JP2Q1OISfQCjfsn8vwAAAA==[0mTest
+Finished: SUCCESS

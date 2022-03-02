@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-03-01 09:32:31.784 UTC</timestamp>
+  <md5sum>3ff7fbacc1ec1a34537e977d6359ff2b</md5sum>
+  <fileName>mysql:mysql-connector-java-8.0.16.jar</fileName>
+  <usages>
+    <entry>
+      <string>Build</string>
+      <ranges>1-4</ranges>
+    </entry>
+    <entry>
+      <string>Build/onlinebookstore:onlinebookstore</string>
+      <ranges>1-4</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

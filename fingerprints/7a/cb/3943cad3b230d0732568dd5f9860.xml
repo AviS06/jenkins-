@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-03-01 09:32:31.771 UTC</timestamp>
+  <original>
+    <name>Build/onlinebookstore:onlinebookstore</name>
+    <number>1</number>
+  </original>
+  <md5sum>7acb3943cad3b230d0732568dd5f9860</md5sum>
+  <fileName>onlinebookstore:onlinebookstore:pom.xml</fileName>
+  <usages>
+    <entry>
+      <string>Build</string>
+      <ranges>1-4</ranges>
+    </entry>
+    <entry>
+      <string>Build/onlinebookstore:onlinebookstore</string>
+      <ranges>1-4</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

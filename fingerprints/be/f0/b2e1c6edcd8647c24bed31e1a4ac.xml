@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-03-01 09:32:31.818 UTC</timestamp>
+  <md5sum>bef0b2e1c6edcd8647c24bed31e1a4ac</md5sum>
+  <fileName>org.postgresql:postgresql-42.3.3.jar</fileName>
+  <usages>
+    <entry>
+      <string>Build</string>
+      <ranges>1-4</ranges>
+    </entry>
+    <entry>
+      <string>Build/onlinebookstore:onlinebookstore</string>
+      <ranges>1-4</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

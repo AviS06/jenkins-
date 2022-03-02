@@ -1,0 +1,23 @@
+Started by user [8mha:////4K1MFtFrSPdWiL8gCEGV8OcaFIse0TzXaRT1XKfwNA/DAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgYe/dLi1CL9xLLMYgMzAPZeijrBAAAA[0mAvinash
+Running as SYSTEM
+Building remotely on [8mha:////4ApekErrvmTM1VTF/qM0dQDXHVLZAfM8Y3mlr6pXo+1OAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZ+/eT83ILSktQi/TygOw0BADPgR8QAAAA=[0mnode1 in workspace /home/ec2-user/workspace/project-c1
+The recommended git tool is: NONE
+No credentials specified
+ > git rev-parse --resolve-git-dir /home/ec2-user/workspace/project-c1/.git # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url https://github.com/AviS06/project-c.git # timeout=10
+Fetching upstream changes from https://github.com/AviS06/project-c.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.27.0'
+ > git fetch --tags --force --progress -- https://github.com/AviS06/project-c.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git rev-parse origin/master^{commit} # timeout=10
+Checking out Revision 60269c298b38c769d65171fd24174c73bcdd459d (origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 60269c298b38c769d65171fd24174c73bcdd459d # timeout=10
+Commit message: "modified main.c"
+ > git rev-list --no-walk 60269c298b38c769d65171fd24174c73bcdd459d # timeout=10
+[project-c1] $ /bin/sh -xe /tmp/jenkins1801778588811162148.sh
++ /home/ec2-user/project-c
+/tmp/jenkins1801778588811162148.sh: line 2: /home/ec2-user/project-c: Is a directory
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE
