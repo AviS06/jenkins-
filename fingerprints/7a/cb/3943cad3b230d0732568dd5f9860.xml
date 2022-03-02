@@ -10,11 +10,11 @@
   <usages>
     <entry>
       <string>Build</string>
-      <ranges>1-4</ranges>
+      <ranges>1-6</ranges>
     </entry>
     <entry>
       <string>Build/onlinebookstore:onlinebookstore</string>
-      <ranges>1-4</ranges>
+      <ranges>1-6</ranges>
     </entry>
   </usages>
   <facets/>

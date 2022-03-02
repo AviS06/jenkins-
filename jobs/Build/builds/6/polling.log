@@ -1,0 +1,12 @@
+Started on Mar 2, 2022 1:26:00 PM
+Using strategy: Default
+[poll] Last Built Revision: Revision 6dcd6a08db4ce3d77047401b609c2ef9c38c5e9a (origin/J2EE)
+The recommended git tool is: NONE
+No credentials specified
+ > git --version # timeout=10
+ > git --version # 'git version 2.27.0'
+ > git ls-remote -h -- https://github.com/AviS06/onlinebookstore.git # timeout=10
+Found 3 remote heads on https://github.com/AviS06/onlinebookstore.git
+[poll] Latest remote head revision on refs/heads/J2EE is: a7baeeb92d3b76a7269a0854e9839fc1ea196cf1
+Done. Took 87 ms
+Changes found

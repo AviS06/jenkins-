@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2022-03-02 13:26:25.277 UTC</timestamp>
+  <original>
+    <name>Build/onlinebookstore:onlinebookstore</name>
+    <number>6</number>
+  </original>
+  <md5sum>20dfd16a54bd68206ed50a62bc7d5e41</md5sum>
+  <fileName>onlinebookstore:onlinebookstore-0.0.1-SNAPSHOT.war</fileName>
+  <usages>
+    <entry>
+      <string>Build</string>
+      <ranges>6</ranges>
+    </entry>
+    <entry>
+      <string>Build/onlinebookstore:onlinebookstore</string>
+      <ranges>6</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
