@@ -1,0 +1,7 @@
+Started by user [8mha:////4K1MFtFrSPdWiL8gCEGV8OcaFIse0TzXaRT1XKfwNA/DAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgYe/dLi1CL9xLLMYgMzAPZeijrBAAAA[0mAvinash
+Running as SYSTEM
+Building remotely on [8mha:////4ApekErrvmTM1VTF/qM0dQDXHVLZAfM8Y3mlr6pXo+1OAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZ+/eT83ILSktQi/TygOw0BADPgR8QAAAA=[0mnode1 in workspace /home/ec2-user/workspace/jenkins backup test
+[jenkins backup test] $ /bin/sh -xe /tmp/jenkins5052787460696569211.sh
++ echo 'Test conducting'
+Test conducting
+Finished: SUCCESS
