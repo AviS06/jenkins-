@@ -1,48 +1,14 @@
-Started at Wed Mar 02 10:43:06 UTC 2022
+Started at Wed Mar 02 20:12:47 UTC 2022
 Processing Build
 Offering Build to Project Build Discarder
 Processing deploy
 Offering deploy to Project Build Discarder
+Processing jenkins backup test
+Offering jenkins backup test to Project Build Discarder
 Processing Project-c
 Offering Project-c to Project Build Discarder
 Processing Test
 Offering Test to Project Build Discarder
 Processing Build/onlinebookstore:onlinebookstore
 Offering Build/onlinebookstore:onlinebookstore to Project Build Discarder
-Finished at Wed Mar 02 10:43:06 UTC 2022. 4ms
-Started at Wed Mar 02 11:43:06 UTC 2022
-Processing Build
-Offering Build to Project Build Discarder
-Processing deploy
-Offering deploy to Project Build Discarder
-Processing Project-c
-Offering Project-c to Project Build Discarder
-Processing Test
-Offering Test to Project Build Discarder
-Processing Build/onlinebookstore:onlinebookstore
-Offering Build/onlinebookstore:onlinebookstore to Project Build Discarder
-Finished at Wed Mar 02 11:43:06 UTC 2022. 2ms
-Started at Wed Mar 02 12:43:06 UTC 2022
-Processing Build
-Offering Build to Project Build Discarder
-Processing deploy
-Offering deploy to Project Build Discarder
-Processing Project-c
-Offering Project-c to Project Build Discarder
-Processing Test
-Offering Test to Project Build Discarder
-Processing Build/onlinebookstore:onlinebookstore
-Offering Build/onlinebookstore:onlinebookstore to Project Build Discarder
-Finished at Wed Mar 02 12:43:06 UTC 2022. 1ms
-Started at Wed Mar 02 13:43:06 UTC 2022
-Processing Build
-Offering Build to Project Build Discarder
-Processing deploy
-Offering deploy to Project Build Discarder
-Processing Project-c
-Offering Project-c to Project Build Discarder
-Processing Test
-Offering Test to Project Build Discarder
-Processing Build/onlinebookstore:onlinebookstore
-Offering Build/onlinebookstore:onlinebookstore to Project Build Discarder
-Finished at Wed Mar 02 13:43:06 UTC 2022. 4ms
+Finished at Wed Mar 02 20:12:47 UTC 2022. 15ms
